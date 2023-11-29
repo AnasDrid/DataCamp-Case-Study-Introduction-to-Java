@@ -80,6 +80,6 @@ public class Fibonacci {
 
 - Fill in the blanks `<????>` with the correct reserved word: `while`, `override`, `char`, `int`, `return`, `void`. ***N.B:*** the same reserved word can be used multiple times.
 - Check for special cases in `Block 1`.
-- write the code that calculates the `Nth` number of the Fibonacci sequence in `Block 2`.
-- Calculate and print the 12th Fibonacci number `Block 3`.
+- write the code that calculates the `Nth` number of the Fibonacci sequence in `Block 2`. ***Hint:*** use the provided variables: `prev`, `curr`, `result`.
+- Calculate and print the 12th Fibonacci number in `Block 3`.
 
