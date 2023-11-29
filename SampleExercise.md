@@ -1,4 +1,7 @@
-# Fibonacci Sequence exercise:
+# Chapter 2 Lesson 4 Exercise:
+
+## Fibonacci Sequence exercise: 
+
 
 ## Context
 
@@ -29,16 +32,18 @@ we can calculate the 5th number `N°5`:
 
 `N°5` = `N°4` + `N°3` = 3 + 2 = 5
 
+
+
 ## Task
 
-Complete the following Java program that calculates the `Nth` Fibonacci number.  
+The following code calculates the `Nth` Fibonacci number:
 
 ### Code
 
 ````
 public class Fibonacci {
     // Calculate the N°th Fibonacci number
-    public static <Blank> calculateFibonacci(<Blank> n) {
+    public static <????> calculateFibonacci(<????> n) {
         // verify the value of n
         ---------
         
@@ -53,17 +58,18 @@ public class Fibonacci {
         // Calculate the Nth Fibonacci number  
         ---------
         
-        
+        <insert code here>
         
         ---------
         
-        <Blank> result;
+        <????> result;
     }
 
     public static void main(String[] args) {
         // Calculate and print the 12th Fibonacci number
         ---------
         
+        <insert code here>
         
         ---------
     }
@@ -72,8 +78,8 @@ public class Fibonacci {
 
 ### Instructions
 
-- Fill in the `<Blank>` with the correct code: `while`, `override`, `char`, `int`, `return`, `void`. N.B: the same code can be used multiple times.
-- Check the value of N and do the necessary actions for each case.
-- Calculate the `Nth` number of the Fibonacci sequence
-- Calculate and print the 12th Fibonacci number
+- Fill in the blanks `<????>` with the correct reserved word: `while`, `override`, `char`, `int`, `return`, `void`. N.B: the same code can be used multiple times.
+- Check for special cases.
+- write the code that calculates the `Nth` number of the Fibonacci sequence.
+- Calculate and print the 12th Fibonacci number.
 
