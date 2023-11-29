@@ -12,7 +12,7 @@ The sequence starts with 0 and 1, and goes on to 1,2,3,5,8,13.... etc.
 
 ### Example:
 
-We want to calculate the 5th Fibonacci number:
+Let's calculate the 5th Fibonacci number:
 
 By definition:
 
@@ -44,8 +44,8 @@ The following code calculates the `Nth` Fibonacci number:
 public class Fibonacci {
     // Calculate the N°th Fibonacci number
     public static <????> calculateFibonacci(<????> n) {
-        // verify the value of n
-        ---------
+        // Check for special cases
+        -----<Block 1>-----
         
         <insert code here>
         
@@ -56,7 +56,7 @@ public class Fibonacci {
         int result = 0;
         
         // Calculate the Nth Fibonacci number  
-        ---------
+        -----<Block 2>-----
         
         <insert code here>
         
@@ -67,7 +67,7 @@ public class Fibonacci {
 
     public static void main(String[] args) {
         // Calculate and print the 12th Fibonacci number
-        ---------
+        -----<Block 3>-----
         
         <insert code here>
         
@@ -78,8 +78,8 @@ public class Fibonacci {
 
 ### Instructions
 
-- Fill in the blanks `<????>` with the correct reserved word: `while`, `override`, `char`, `int`, `return`, `void`. N.B: the same code can be used multiple times.
-- Check for special cases.
-- write the code that calculates the `Nth` number of the Fibonacci sequence.
-- Calculate and print the 12th Fibonacci number.
+- Fill in the blanks `<????>` with the correct reserved word: `while`, `override`, `char`, `int`, `return`, `void`. ***N.B:*** the same reserved word can be used multiple times.
+- Check for special cases in `Block 1`.
+- write the code that calculates the `Nth` number of the Fibonacci sequence in `Block 2`.
+- Calculate and print the 12th Fibonacci number `Block 3`.
 
