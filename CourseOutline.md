@@ -14,14 +14,14 @@
 
  - Learner will be able to define programming.
  - Learner will be able to explain how a program works.
- - Learner will be able to explain basic programming concepts.
+ - Learner will be able to explain basic programming concepts like variables, data types and operators.
 
 ***
 ### Lesson 2: Introduction to Java
 #### Learning Objectives:
 ***
 
- - Learner will be able to describe Java and it's features.
+ - Learner will be able to describe Java and its features.
  - Learner will be able to compare Java to other programming languages.
 
 ***
@@ -30,12 +30,12 @@
 #### Learning Objectives:
 ***
 
- - Learner will be able to describe how to run a Java program.
+ - Learner will be able to explain how to run a Java program.
  - Learner will be able to write a simple Java program.
  - Learner will be able to compile Java programs.
 
 ***
-### Chapter 1 Practice: MCQ
+### Chapter 1 Guided Practice: MCQ
 
 
 ***
@@ -50,7 +50,7 @@
 
   
 
-### Lesson 1: Variables, Data types and operators
+### Lesson 1: Variables, Data types and Operators
 #### Learning Objectives:
 ***
 
@@ -168,9 +168,9 @@
 #### Learning Objectives:
 ***
 
- - Learner will be able to define abstract classes and interfaces.
- - Learner will be able to create abstract classes and interfaces.
- - Learner will be able to use abstract classes and interfaces.
+ - Learner will be able to explain abstract classes and interfaces and their usefulness.
+ - Learner will be able to construct abstract classes and interfaces in Java.
+ - Learner will be able to utilize abstract classes and interfaces in Java.
 
 ***
 

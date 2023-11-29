@@ -3,43 +3,77 @@
 ## Context
 
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones.
+
+
 The sequence starts with 0 and 1, and goes on to 1,2,3,5,8,13.... etc.
 
+### Example:
+
+We want to calculate the 5th Fibonacci number:
+
+By definition:
+
+1st Fibonacci number: `N°0` = 0 
+
+2nd Fibonacci number: `N°1` = 1
+
+And since we know that `N°x` = `N°x-1` + `N°x-2`
+
+we can calculate the 5th number `N°5`:
+
+`N°2` = `N°1` + `N°0` = 1 + 0 = 1
+
+`N°3` = `N°2` + `N°1` = 1 + 1 = 2
+
+`N°4` = `N°3` + `N°2` = 2 + 1 = 3
+
+`N°5` = `N°4` + `N°3` = 3 + 2 = 5
+
 ## Task
+
+Complete the following Java program that calculates the `Nth` Fibonacci number.  
+
+### Code
 
 ````
 public class Fibonacci {
     // Calculate the N°th Fibonacci number
-    public static int calculateFibonacci(<Blank 1> n) {
-        // Check condition on n
-        <Blank 2> (n <= 1) {
-            <Blank 5> n;
-        }
+    public static <Blank> calculateFibonacci(<Blank> n) {
+        // verify the value of n
+        ---------
+        
+        
+        
+        ---------
         
         int prev = 0;
         int curr = 1;
         int result = 0;
         
-        for (int i = 2; i <= n; <Blank 3>) {
-            result = prev <Blank 4> curr;
-            prev = curr;
-            curr = result;
-        }
+        // Calculate the Nth Fibonacci number  
+        ---------
         
-        <Blank 5> result;
+        
+        
+        ---------
+        
+        <Blank> result;
     }
 
     public static void main(String[] args) {
-        int n = 10; 
-        int fibN = calculateFibonacci(n);
-        System.out.println("The " + n + "th Fibonacci number is: " + fibN);
+        // Calculate and print the 12th Fibonacci number
+        ---------
+        
+        
+        ---------
     }
 }
 ````
 
-fill in the blanks `<Blank N°>` with the correct code:
+### Instructions
 
-- 
-- The correct control flow statement
-- 
+- Fill in the `<Blank>` with the correct code: `while`, `override`, `char`, `int`, `return`, `void`. N.B: the same code can be used multiple times.
+- Check the value of N and do the necessary actions for each case.
+- Calculate the `Nth` number of the Fibonacci sequence
+- Calculate and print the 12th Fibonacci number
 
