@@ -1,6 +1,6 @@
 # DataCamp Case Study: Introduction to Java
 
-This repository is structured in the following way:
+This repository contains the following files:
 
 - CourseOutline.md: The course outline.
 - SampleExercise.md: A sample exercise.
